@@ -5,11 +5,11 @@ A simple python script to extract data collected from Google form and update dat
 
 ### Table of content
 
--[Why does this exist](#why-does-this-exist)
--[Requirements](#requirements)
--[Authenticating](#authenticating)
--[Specifying worksheet number and column](#specifying-worksheet-number-and-column)
--[In Action](#in-action)
+- [Why does this exist](#why-does-this-exist)
+- [Requirements](#requirements)
+- [Authenticating](#authenticating)
+- [Specifying worksheet number and column](#specifying-worksheet-number-and-column)
+- [In Action](#in-action)
 
 ### Why does this exist?
 
