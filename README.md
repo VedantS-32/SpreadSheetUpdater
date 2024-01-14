@@ -3,6 +3,14 @@
 Automation python script to update data at specific position spreadsheet using Google Form
 A simple python script to extract data collected from Google form and update data in Google Sheet at a specific location
 
+### Table of content
+
+-[Why does this exist](#why-does-this-exist)
+-[Requirements](#requirements)
+-[Authenticating](#authenticating)
+-[Specifying worksheet number and column](#specifying-worksheet-number-and-column)
+-[In Action](#in-action)
+
 ### Why does this exist?
 
 When I was living in a hostel, there I was given work to collect details from all 110+ students from our hostel. Collecting there Home Address, Home Number, Personal Number, College Name, Timing and 10 items more. That was too much for me to handle. So I found out that I can access Google Sheet with Python and also results from Google Form can be linked to Google Sheet.
@@ -97,9 +105,9 @@ if (FormRowValue[FormField.Question1.value] != ''):
 
 That's all you need to get this working
 
-![FormWorksheet](https://github.com/VedantS-32/SpreadSheetUpdater/assets/122535961/80f1bf2e-9f55-4a91-b9cc-24493fe73f60)
+### In Action
 
-In Action
+![FormWorksheet](https://github.com/VedantS-32/SpreadSheetUpdater/assets/122535961/80f1bf2e-9f55-4a91-b9cc-24493fe73f60)
 
 https://github.com/VedantS-32/SpreadSheetUpdater/assets/122535961/58170901-aec4-40ce-aedb-dc81612a6a65
 
